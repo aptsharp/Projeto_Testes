@@ -1,0 +1,5 @@
+O backup do banco de dados foi feito através do comando 
+
+BACKUP DATABASE [Angular]
+TO DISK = 'C:\z\Angular.bak';
+GO
