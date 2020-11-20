@@ -8,7 +8,7 @@
 ## Techs:
 
 - **.Net Core** - Usado para a criação do projeto é um Framework livre e de código aberto para os sistemas operacionais Windows, Linux e macOS.
-- ASP.Net Core MVC - É uam estrutura avançada para a criação de aplicativos Web e APIs usando o padrão de design Model-View-Controller
+- **ASP.Net Core MVC** - É uam estrutura avançada para a criação de aplicativos Web e APIs usando o padrão de design Model-View-Controller
 - **xUnit** - Usado para criar teste automatizados BDD e TDD.
 
 
